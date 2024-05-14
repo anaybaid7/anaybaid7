@@ -1,6 +1,6 @@
 # About Me:
 
-👋 Hello there! I'm a cybersecurity enthusiast with a developer's perspective, currently pursuing my studies at the esteemed David R Cheriton School of Computer Science at the University of Waterloo! 
+👋 Hi! I'm Anay Baid, a 2nd Year Computer Science student at the David R Cheriton School of Computer Science at the University of Waterloo, and also a cybersecurity enthusiast with a developer's perspective!! Please find my Developer's Portfolio here: [insert link] (as of May 14th, 20:00pm EST)
 
 💻💻💻💻💻💻💻💻<br>🌱 As a student, I'm deeply passionate about software development and continuously strive to stay up-to-date with the latest advancements in technology. Alongside my academic pursuits, I'm immersing myself in the exciting world of cybersecurity, specifically focusing on expanding my knowledge and skills in this field. 
 
