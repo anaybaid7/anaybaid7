@@ -6,7 +6,7 @@ Hi! I'm Anay Baid, a 2nd Year Computer Science student at the David R Cheriton S
 
 <br>🔧 My current focus is sharpening my skills in Node.js, Express, and related technologies, as well as delving into the realm of data engineering. I aim to build robust and scalable software solutions, while also exploring the intricacies of data management and analysis. 
 
-<br>💡 I firmly believe collaboration is key to success, so I'm actively seeking opportunities to work on projects that bridge the gap between software development, data engineering, and cybersecurity. If you're working on a project in these domains or have any exciting opportunities to explore, I would love to collaborate with you! 🤝<br><br>If you're looking to connect, seek advice, explore exciting opportunities, or just engage in a friendly chat, don't hesitate to drop me a line at anay.baid@uwaterloo.ca. Let's strengthen our defences, craft innovative solutions, and make a positive impact together! 💪🔒
+<br>💡 I firmly believe collaboration is key to success, so I'm actively seeking opportunities to work on projects that bridge the gap between software development, data engineering, and cybersecurity. If you're working on a project in these domains or have any exciting opportunities to explore, I would love to collaborate with you! 🤝<br><br>If you're looking to connect, seek advice, explore exciting opportunities, or just engage in a friendly chat, don't hesitate to drop me a line at anay.baid@uwaterloo.ca. Let's strengthen our defences, craft innovative solutions, and make a positive impact together!
 
 Tagline: `Empowering Innovation through Software and Data`
 
