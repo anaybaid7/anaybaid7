@@ -10,7 +10,7 @@ Hi! I'm Anay Baid, a 2nd Year Computer Science student at the David R Cheriton S
 
 Tagline: `Empowering Innovation through Software and Data`
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anaybaid/) 
 
 # 💻 Tech Stack:
