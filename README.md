@@ -1,12 +1,8 @@
 # About Me:
 
 Hi! I'm Anay Baid, a 2nd Year Computer Science student at the David R Cheriton School of Computer Science at the University of Waterloo, and also a cybersecurity enthusiast with a developer's perspective. You can find my developer portfolio here: https://anay-baid-web.netlify.app/.
-
-
 <br><br>🌱 I'm deeply passionate about software development and continuously strive to stay up-to-date with the latest advancements in technology. Alongside my academic pursuits, I'm readily immersing myself to understand the basics of cybersecurity, specifically focusing on expanding my knowledge and skills in this field. 
-
 <br><br>🔧 My current focus is sharpening my skills in Node.js, Express, and related technologies, as well as delving into the realm of data engineering. I aim to build robust and scalable software solutions, while also exploring the intricacies of data management and analysis. 
-
 <br><br>💡 I truly believe that collaboration in some sense is key to success, which leads me to actively seek opportunities to work on projects that bridge the gap between software development, data engineering, and cybersecurity. If you're working on a project in these domains or have any exciting opportunities to explore, I would love to collaborate with you! 🤝<br><br>If you're looking to connect, seek advice, explore exciting opportunities, or just engage in a friendly chat, don't hesitate to drop me a line at anay.baid@uwaterloo.ca. Let's strengthen our defences, craft innovative solutions, and make a positive impact together!
 
 Tagline: `Empowering Innovation through Software and Data`
