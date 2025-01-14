@@ -9,7 +9,7 @@ I love to code, experiment with new technologies, and collaborate on projects th
 ## What I’ve Been Up To
 
 ### **Data Engineering at Cineplex**
-I had an awesome opportunity at **Cineplex Entertainment** where I worked on improving how the company tracks **box office data** using **Power BI**. I optimized their machine learning algorithms, and even worked on a massive **Azure data validation** project that saved tons of time and made sure the data was spot-on.
+I had an awesome opportunity at **Cineplex Entertainment** where I worked on improving how the company tracks **box office data** using **Power BI**. I optimized their machine learning algorithms, and even worked on a extensive **Azure data validation** project that saved tons of time and made sure the data was spot-on.
 
 ### **Full-Stack Development Projects**
 I’m super passionate about building web applications. Recently, I built a **MERN stack e-commerce platform** (MongoDB, Express, React, Node.js) from the ground up. It was a great way to get my hands dirty with **Redux**, **Docker**, and **CI/CD**. I’ve also been experimenting with **machine learning**, using Python to make sense of large datasets and build smarter prediction models.
