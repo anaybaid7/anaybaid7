@@ -64,10 +64,10 @@ I’m pursuing my **Honours Computer Science** degree at the **University of Wat
 
 I’m always open to chatting about new technologies, fun projects, or potential collaborations. If you’re working on something cool or want to chat about tech in general, feel free to reach out!
 
-- **Email**: [anay.baid@uwaterloo.ca](mailto:anay.baid@uwaterloo.ca)
-- **LinkedIn**: [Anay Baid](https://www.linkedin.com/in/anaybaid/)
-- **Portfolio**: [Anay Baid Portfolio](https://anay-baid-web.netlify.app/)
+- **Email**: anay.baid@uwaterloo.ca 
+- **LinkedIn**: https://www.linkedin.com/in/anaybaid/
+- **Portfolio**: https://anay-baid-web.netlify.app/
 
 ---
 
-Thanks for stopping by! :)) 
+Thanks for stopping by! Hope to connect with you :)) 
