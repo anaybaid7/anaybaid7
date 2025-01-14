@@ -6,7 +6,7 @@ I love to code, experiment with new technologies, and collaborate on projects th
 
 ---
 
-## What I’ve Been Up To 👨‍💻
+## What I’ve Been Up To
 
 ### **Data Engineering at Cineplex**
 I had an awesome opportunity at **Cineplex Entertainment** where I worked on improving how the company tracks **box office data** using **Power BI**. I optimized their machine learning algorithms, and even worked on a massive **Azure data validation** project that saved tons of time and made sure the data was spot-on.
@@ -19,7 +19,7 @@ In my internship at **Alterra Mountain Company**, I worked on improving their **
 
 ---
 
-## What I Love to Work With 🔧
+## What I Love to Work With 
 
 I’m all about building efficient, scalable systems. Here are some tools and languages I enjoy working with:
 
@@ -30,7 +30,7 @@ I’m all about building efficient, scalable systems. Here are some tools and la
 
 ---
 
-## A Few Cool Projects I’ve Worked On 🎉
+## A Few Cool Projects I’ve Worked On 
 
 ### **MERN E-Commerce Site**
 I built a fully-functional e-commerce site with the **MERN stack** (MongoDB, Express, React, Node.js) to dive deeper into the full-stack world. It involved working with **Redux** for state management, **Docker** for containerization, and **Vercel** for seamless deployment. It was a blast building something end-to-end and learning how all the pieces come together.
@@ -43,7 +43,7 @@ I helped improve Cineplex’s **show-time prediction algorithm** by evaluating a
 
 ---
 
-## How I Think About Tech 🤔
+## How I Think About Tech 
 
 Tech is all about **innovation** and **problem-solving**. When I work on a project, I always start by trying to understand the bigger picture—why the problem matters, who it affects, and how I can approach it in a way that’s scalable and efficient. I don’t believe in a one-size-fits-all solution, so I’m always open to experimenting with different technologies and strategies to find the best fit.
 
@@ -51,7 +51,7 @@ I love the process of iterating on ideas—**building, testing, refining**. It�
 
 ---
 
-## Education & Community 🧑‍🏫
+## Education & Community 
 
 I’m pursuing my **Honours Computer Science** degree at the **University of Waterloo**, and I’ve had the chance to get involved with a ton of cool initiatives on campus:
 
