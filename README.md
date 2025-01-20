@@ -1,25 +1,25 @@
 # Hey, I'm Anay Baid 👋
 
-I'm a **Computer Science student** at the University of Waterloo, and I'm all about using **technology to solve real-world problems**. From building full-stack apps to optimizing machine learning models, I'm constantly exploring new ways to make systems smarter and more efficient.
+I'm a **Computer Science student** at the University of Waterloo, and I excel in using**technology to solve real-world problems**. This ranges from building full-stack apps to optimizing machine learning models - I'm constantly exploring new ways to make systems smarter and more efficient! 
 
-I love to code, experiment with new technologies, and collaborate on projects that have a tangible impact. Whether it's **data engineering**, **cloud computing**, or **software development**, I’m always looking for ways to push the boundaries of what tech can do.
+I love to code, experiment with new technologies, and collaborate on projects that have a tangible impact on users. Whether it's **data engineering**, **cloud computing**, or **software development**, I’m always looking for ways to push the boundaries of what tech can do, and learn those ways myself to the best of my capability.
 
 ---
 
-## What I’ve Been Up To
+## What I’ve Been Up To thus far 
 
-### **Data Engineering at Cineplex**
-I had an awesome opportunity at **Cineplex Entertainment** where I worked on improving how the company tracks **box office data** using **Power BI**. I optimized their machine learning algorithms, and even worked on a extensive **Azure data validation** project that saved tons of time and made sure the data was spot-on.
+### **Data Engineering @ Cineplex Entertainment LP**
+I had an awesome opportunity at **Cineplex Entertainment LP** from January 2024 - April 2024, where I worked extensively on improving how the company tracked **Box Office Data** using interactive dashboards on **MS Power BI**. I optimized their machine learning algorithms for show-times, and even worked on a extensive **Azure Data Validation** project, being part of their Data Governance and Production team that saved tons of time and made sure that there was a reliable system to track data issues and related fixes for continuing patterns.
 
 ### **Full-Stack Development Projects**
-I’m super passionate about building web applications. Recently, I built a **MERN stack e-commerce platform** (MongoDB, Express, React, Node.js) from the ground up. It was a great way to get my hands dirty with **Redux**, **Docker**, and **CI/CD**. I’ve also been experimenting with **machine learning**, using Python to make sense of large datasets and build smarter prediction models.
+I’m super passionate about building web applications. About a few months back, I built a **MERN stack e-commerce platform** (using MongoDB, Express.js, React, Node.js) from the ground up. It was a great way to get my hands dirty especially with **Redux**, **Docker**, and **CI/CD**. I’ve also been recently experimenting with **Machine Learning**, using Python to make sense of large datasets and build smarter prediction models, having taken relevant courses at the University of Waterloo. 
 
 ### **Optimizing Business Systems**
-In my internship at **Alterra Mountain Company**, I worked on improving their **property management system**—think reducing guest check-in times and speeding up data retrieval for large hotel chains. The goal was to make the system **faster, smarter, and more scalable**, and it felt great to see the real-world impact of the work.
+In my internship at **Alterra Mountain Company**, I worked on improving their **property management system** - key system optimisations worked on by me and the backend team helped reduce guest check-in times and speeding up data retrieval for the Blue Mountain Resort chain, as well as the Marriot Group of hotels there. The eventual goal was to make the system **faster, smarter, and more scalable**, and it felt great to see the real-world impact of the work while I was there for my first internship.
 
 ---
 
-## What I Love to Work With 
+## Technology Stack that I've built & developed with: 
 
 I’m all about building efficient, scalable systems. Here are some tools and languages I enjoy working with:
 
