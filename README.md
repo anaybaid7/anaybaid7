@@ -1,63 +1,103 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/518e6ef8-25bf-401b-94da-3cc4fd45b29a" alt="github-header-banner" width="100%" />
+  <img src="https://github.com/user-attachments/assets/518e6ef8-25bf-401b-94da-3cc4fd45b29a" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Anay Baid 👋</h1>
-<p align="center"><strong>CS @ University of Waterloo</strong> — Full‑Stack · Data Ops · ML · DevOps</p>
-
-
----
-
-## 🧠 About Me  
-I build tools and systems that solve real problems, automate workflows, and make systems smarter, faster, and more user-centric. I love cloud, code, and continuous improvement.
+<h1 align="center">Anay Baid</h1>
+<p align="center">
+  CS @ Waterloo · Full‑Stack · DataOps · Infra · ML  
+</p>
 
 ---
 
-## 🚀 Experience Highlights
-
-- **Software & Automation Engineer @ iotum (May–Aug 2025)**  
-  Selenium/Mocha test automation, React SDK onboarding tools — streamlined QA cycles and boosted developer adoption.
-
-- **Data Engineering Intern @ Cineplex (Jan–Apr 2024)**  
-  Validated 10 TB of Azure data, improved ML show‑time predictions by 15 %, built Power BI dashboards to automate reporting (70 % faster).
-
-- **Systems Admin Intern @ Alterra Mountain Company (Blue Mountain, 2023)**  
-  Optimized property management systems, cut check‑in time by 20 %, and used Power BI insights to increase upsell revenue by 15 %.
+> I design reliable systems that move fast, scale quietly, and get smarter over time.
 
 ---
 
-## 🛠 Tech Stack & Tools  
+### 🧠 Current Focus
 
-| Language/Platform | Frameworks & Cloud | DevOps / Tooling |
-|-------------------|--------------------|-------------------|
-| C, C++, Python, JavaScript/TypeScript, Java, SQL, Kotlin, R | React, Node.js, Django, Spring Boot, .NET, Flutter, Tailwind | Docker, AWS, Azure, Selenium, Jira, GitLab, Power BI, JUnit, VMWare |
-
----
-
-## 📦 Projects & Featured Work
-
-### 🛒 [**MERN‑Store‑Gold**](https://mern-store-gold.vercel.app/)  
-A containerized e‑commerce shop built with MongoDB, Express, React, Node.js, Redux–Thunk, Docker and deployed on Vercel. Reduced dev iteration time by 30 %.
-
-### 📊 **Cineplex Data & ML Dashboard**  
-Automated box‑office analytics with Power BI, SQL, Python, Azure. Led data governance, anomaly tracking, and model accuracy improvements.
-
-### 🤖 **Show‑Time Prediction Model Optimization**  
-Improved accuracy by 15 % via rigorous data cleaning, validation, and pipeline refactoring.
+```txt
+Improving DevOps workflows, shipping full-stack tools, and making data pipelines robust and observable.
+```
 
 ---
 
-## 📈 GitHub & Coding Activity
+### 🚀 Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anaybaid7&show_icons=true&theme=tokyonight&count_private=true)
+**Software & QA Engineer @ iotum**  
+_May–Aug 2025 · React SDKs · Mocha · Selenium · GitHub Actions_  
+• Built automated test infra → cut QA cycles by 50%  
+• Created onboarding widgets that improved dev integration success by 3×  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anaybaid7&layout=compact&theme=vision-friendly-dark)
+**Data Engineering Intern @ Cineplex**  
+_Jan–Apr 2024 · Azure · SQL · Power BI · Python_  
+• Validated 10 TB+ across distributed systems  
+• Automated anomaly detection + BI dashboards (70% faster reports)  
+• Boosted ML model accuracy by 15% through pipeline tuning  
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=anaybaid7&theme=dark)
+**SysAdmin Intern @ Alterra / Blue Mountain**  
+_May–Sep 2023 · Power BI · MSSQL · Systems Optimization_  
+• Re-architected property management flows → 20% faster check-ins  
+• Increased upsell revenue by 15% using BI insights  
 
 ---
-          git config user.name "github-actions[bot]"
-          git config user.email "actions@github.com"
-          git add README-resume.md
-          git commit -m "Update resume section" || echo "No changes"
-          git push
+
+### 🛠️ Stack Snapshot
+
+```ts
+Languages:     C, C++, Python, JavaScript, TypeScript, Java, SQL, Kotlin, R  
+Frameworks:    React, Node.js, Django, Spring Boot, .NET, Flutter  
+Infra / Tools: Docker, Azure, AWS, Selenium, JUnit, GitLab CI/CD, Power BI, VMWare  
+```
+
+---
+
+### 📦 Selected Projects
+
+#### 🛒 [MERN‑Store‑Gold](https://mern-store-gold.vercel.app/)  
+**Stack:** MongoDB · Express · React · Node · Redux · Docker  
+> A containerized e‑commerce platform with auth, RBAC, and live checkout. CI‑enabled via GitHub Actions. Cut development iteration cycles by 30%.
+
+---
+
+#### 📊 Cineplex BI + Data Pipeline  
+**Stack:** Power BI · SQL · Python · Azure Data Lake  
+> Unified multiple upstream box office feeds. Created real-time dashboards and anomaly tracking logic. Empowered non-technical teams with self-serve insights.
+
+---
+
+#### 🤖 Showtime Prediction Model  
+**Stack:** scikit-learn · pandas · Azure Pipelines  
+> Cleaned & normalized datasets, added validation gates, and tuned the prediction model → improved accuracy by 15% and runtime by 25%.
+
+---
+
+### 🧪 Side Quests
+
+- Rewrote legacy ETLs → 5× faster  
+- Built MIPS backend for a toy compiler  
+- CLI tools to reduce onboarding time  
+- Visual regression testing via CI/CD  
+
+---
+
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaybaid7&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=anaybaid7&theme=dark" height="130"/>
+</p>
+
+---
+
+### 📬 Contact
+
+```md
+📧 a2baid@uwaterloo.ca  
+🔗 https://www.linkedin.com/in/anaybaid/  
+💾 https://anaybaid7.github.io/  
+```
+
+---
+
+> `git commit -m "Clean abstractions. Real impact."`
