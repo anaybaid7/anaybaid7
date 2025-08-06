@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/518e6ef8-25bf-401b-94da-3cc4fd45b29a" alt="Banner" width="100%" />
-</p>
-
 <h1 align="center">Anay Baid</h1>
 <p align="center">
   CS @ Waterloo · Full‑Stack · DataOps · Infra · ML  
