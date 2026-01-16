@@ -1,82 +1,40 @@
 <h1 align="center">Anay Baid</h1>
 <p align="center">
-  CS @ Waterloo · Full‑Stack · DataOps · Infra · ML  
+  CS @ Waterloo · Full-Stack · DataOps · Infrastructure · ML
 </p>
 
----
+Currently
+DevOps automation, production tooling, ML infrastructure.
 
-> I design reliable systems that move fast, scale quietly, and get smarter over time.
+Experience
+Software & QA Engineer · iotum
+May–Aug 2025
+Built automated test infrastructure that cut QA cycles in half. Shipped onboarding widgets that tripled successful SDK integrations. Designed visual regression testing pipeline with Selenium and GitHub Actions.
+Data Engineering Intern · Cineplex
+Jan–Apr 2024
+Validated 10TB+ across distributed systems. Automated anomaly detection and BI dashboards—cut report generation time by 70%. Tuned ML pipelines to improve prediction accuracy by 15%.
+SysAdmin Intern · Alterra / Blue Mountain
+May–Sep 2023
+Re-architected property management workflows for 20% faster check-ins. Used BI analytics to drive 15% increase in upsell revenue.
 
----
+Technical Stack
+Languages:     C, C++, Python, JavaScript, TypeScript, Java, SQL, Kotlin, R
+Frameworks:    React, Node.js, Django, Spring Boot, .NET, Flutter
+Infrastructure: Docker, Azure, AWS, Selenium, GitLab CI/CD, Power BI, VMWare
 
-### 🧠 Current Focus
+Selected Work
+MERN-Store-Gold
+MongoDB · Express · React · Node · Redux · Docker
+Containerized e-commerce platform with auth, RBAC, and live checkout. Full CI/CD pipeline via GitHub Actions. Live demo
+Cineplex BI & Data Pipeline
+Power BI · SQL · Python · Azure Data Lake
+Unified multiple upstream data feeds into real-time dashboards with anomaly tracking. Built self-serve analytics for non-technical teams.
+Showtime Prediction Model
+scikit-learn · pandas · Azure Pipelines
+Cleaned datasets, added validation gates, tuned the model. Improved accuracy by 15% and cut runtime by 25%.
 
-```txt
-Improving DevOps workflows, shipping full-stack tools, and making data pipelines robust and observable.
-```
-
----
-
-### 🚀 Experience
-
-**Software & QA Engineer @ iotum**  
-_May–Aug 2025 · React SDKs · Mocha · Selenium · GitHub Actions_  
-• Built automated test infra → cut QA cycles by 50%  
-• Created onboarding widgets that improved dev integration success by 3×  
-
-**Data Engineering Intern @ Cineplex**  
-_Jan–Apr 2024 · Azure · SQL · Power BI · Python_  
-• Validated 10 TB+ across distributed systems  
-• Automated anomaly detection + BI dashboards (70% faster reports)  
-• Boosted ML model accuracy by 15% through pipeline tuning  
-
-**SysAdmin Intern @ Alterra / Blue Mountain**  
-_May–Sep 2023 · Power BI · MSSQL · Systems Optimization_  
-• Re-architected property management flows → 20% faster check-ins  
-• Increased upsell revenue by 15% using BI insights  
-
----
-
-### 🛠️ Stack Snapshot
-
-```ts
-Languages:     C, C++, Python, JavaScript, TypeScript, Java, SQL, Kotlin, R  
-Frameworks:    React, Node.js, Django, Spring Boot, .NET, Flutter  
-Infra / Tools: Docker, Azure, AWS, Selenium, JUnit, GitLab CI/CD, Power BI, VMWare  
-```
-
----
-
-### 📦 Selected Projects
-
-#### 🛒 [MERN‑Store‑Gold](https://mern-store-gold.vercel.app/)  
-**Stack:** MongoDB · Express · React · Node · Redux · Docker  
-> A containerized e‑commerce platform with auth, RBAC, and live checkout. CI‑enabled via GitHub Actions. Cut development iteration cycles by 30%.
-
----
-
-#### 📊 Cineplex BI + Data Pipeline  
-**Stack:** Power BI · SQL · Python · Azure Data Lake  
-> Unified multiple upstream box office feeds. Created real-time dashboards and anomaly tracking logic. Empowered non-technical teams with self-serve insights.
-
----
-
-#### 🤖 Showtime Prediction Model  
-**Stack:** scikit-learn · pandas · Azure Pipelines  
-> Cleaned & normalized datasets, added validation gates, and tuned the prediction model → improved accuracy by 15% and runtime by 25%.
-
----
-
-### 🧪 Side Quests
-
-- Rewrote legacy ETLs → 5× faster  
-- Built MIPS backend for a toy compiler  
-- CLI tools to reduce onboarding time  
-- Visual regression testing via CI/CD  
-
----
-
-### 📈 GitHub Activity
+Other Things
+Rewrote legacy ETLs to run 5× faster. Built MIPS backend for a toy compiler. Created CLI tools to speed up developer onboarding. Set up visual regression testing in CI/CD.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anaybaid7&show_icons=true&theme=tokyonight&count_private=true" height="150" />
@@ -84,16 +42,9 @@ Infra / Tools: Docker, Azure, AWS, Selenium, JUnit, GitLab CI/CD, Power BI, VMWa
   <img src="https://streak-stats.demolab.com/?user=anaybaid7&theme=dark" height="130"/>
 </p>
 
----
+Contact
+Email: a2baid@uwaterloo.ca
+LinkedIn: linkedin.com/in/anaybaid
+Portfolio: anaybaid7.github.io
 
-### 📬 Contact
-
-```md
-📧 a2baid@uwaterloo.ca  
-🔗 https://www.linkedin.com/in/anaybaid/  
-💾 https://anaybaid7.github.io/  
-```
-
----
-
-> `git commit -m "Clean abstractions. Real impact."`
+Clean abstractions. Real impact.
