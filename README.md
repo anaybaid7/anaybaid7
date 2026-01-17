@@ -1,60 +1,48 @@
 <h1 align="center">Anay Baid</h1>
-<p align="center">
-  CS @ Waterloo · Full-Stack · Data · Infrastructure · ML
-</p>
+<p align="center">4A CS @ Waterloo</p>
 
 ---
 
-## Experience
+## What I've Been Doing
 
-**Software & QA Engineer · iotum**  
-*May–Aug 2025*
+**iotum** — Software & QA Engineer  
+*Summer 2025*
 
-Automated testing infrastructure. Built SDK onboarding widgets. Visual regression testing with Selenium and GitHub Actions.
+Spent the term fixing how we test SDKs. Cut QA time in half by automating the boring parts. Built onboarding flows that actually made sense to new developers.
 
-**Data Engineering Intern · Cineplex**  
-*Jan–Apr 2024*
+**Cineplex** — Data Engineering  
+*Winter 2024*
 
-Validated 10TB+ data across distributed systems. Automated anomaly detection and BI dashboards. Tuned ML pipelines.
+Dealt with petabytes of box office data that didn't match between systems. Wrote pipelines to catch errors before they broke dashboards. Helped tune prediction models so they'd actually run on time.
 
-**SysAdmin Intern · Alterra / Blue Mountain**  
-*May–Sep 2023*
+**Alterra / Blue Mountain** — Systems & Analytics  
+*Summer 2023*
 
-Rebuilt property management workflows. BI analytics for revenue optimization.
-
----
-
-## Stack
-```
-Languages:     C, C++, Python, JavaScript, TypeScript, Java, SQL, Kotlin, R
-Frameworks:    React, Node.js, Django, Spring Boot, .NET, Flutter
-Infrastructure: Docker, Azure, AWS, Selenium, GitLab CI/CD, Power BI, VMWare
-```
+Rebuilt check-in workflows for resort properties. Dug through SQL to find patterns that drove upsell revenue. Mostly learned how bad legacy systems can get.
 
 ---
 
-## Projects
+## What I Use
 
-### MERN-Store-Gold
-**MongoDB · Express · React · Node · Redux · Docker**
-
-E-commerce platform with auth, RBAC, checkout. CI/CD via GitHub Actions. [Demo](https://mern-store-gold.vercel.app/)
-
-### Cineplex BI & Data Pipeline
-**Power BI · SQL · Python · Azure Data Lake**
-
-Real-time dashboards with anomaly tracking. Self-serve analytics.
-
-### Showtime Prediction Model
-**scikit-learn · pandas · Azure Pipelines**
-
-Data cleaning, validation, model tuning.
+**Code:** Python, C/C++, JavaScript/TypeScript, Java, SQL  
+**Build:** React, Node, Django, Spring Boot, Docker  
+**Deploy:** AWS, Azure, GitLab CI/CD, GitHub Actions
 
 ---
 
-## Other Work
+## Things I've Built
 
-Legacy ETL rewrites. MIPS compiler backend. CLI tooling. Visual regression testing in CI/CD.
+**Full-stack e-commerce app**  
+MERN stack with auth, cart, checkout. Dockerized everything so it actually runs the same locally and in prod. [Try it](https://mern-store-gold.vercel.app/)
+
+**Box office data pipeline**  
+Unified multiple data sources into one dashboard. Added alerts for when numbers looked wrong. Non-technical people could finally answer their own questions.
+
+**ML prediction model**  
+Took messy datasets, cleaned them up, validated the inputs. Made the model 15% more accurate and way faster.
+
+**Other random projects**  
+MIPS compiler backend. CLI tools to speed up onboarding. Rewrote some ETL jobs that were painfully slow.
 
 ---
 
@@ -66,8 +54,4 @@ Legacy ETL rewrites. MIPS compiler backend. CLI tooling. Visual regression testi
 
 ---
 
-## Contact
-
-**Email:** a2baid@uwaterloo.ca  
-**LinkedIn:** [linkedin.com/in/anaybaid](https://www.linkedin.com/in/anaybaid/)  
-**Portfolio:** [anaybaid7.github.io](https://anaybaid7.github.io/)
+**a2baid@uwaterloo.ca** · [linkedin.com/in/anaybaid](https://www.linkedin.com/in/anaybaid/) · [anaybaid7.github.io](https://anaybaid7.github.io/)
