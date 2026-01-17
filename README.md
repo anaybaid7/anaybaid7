@@ -46,10 +46,13 @@ MIPS compiler backend. CLI tools to speed up onboarding. Rewrote some ETL jobs t
 
 ---
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaybaid7&show_icons=true&theme=tokyonight&count_private=true" height="150" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=anaybaid7&theme=dark" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anaybaid7&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anaybaid7&theme=dark" height="165"/>
 </p>
 
 ---
