@@ -16,7 +16,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
 ## &nbsp;⚡ Where I've Been
 
@@ -64,7 +63,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
 ## &nbsp;🛠️ Stack
 
@@ -98,7 +96,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
 ## &nbsp;🚀 Things I've Built
 
@@ -131,7 +128,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
 ## &nbsp;🎓 Education
 
@@ -148,7 +144,6 @@ CS & Math Tutor for Algorithm Design & Data Abstraction (CS 136/136L)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=2&section=header" width="100%"/>
 
 ## &nbsp;📊 GitHub
 
