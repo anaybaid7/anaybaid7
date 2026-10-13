@@ -1,0 +1,228 @@
+# Everything on the profile lives here. Edit, commit, and the Action redraws it.
+# Wrap words in **double stars** to make them bold and bright.
+# Colors: red, amber, teal, sky, pink
+
+name: Anay Baid
+tagline: Backend and data engineer at Waterloo CS. I build pipelines, APIs and the cloud under them.
+facts:
+- label: Graduating
+  value: April 2027
+  color: teal
+- label: Looking for
+  value: New grad SWE
+  color: red
+- label: Based in
+  value: Toronto area
+  color: sky
+- label: Experience
+  value: 5 internships
+  color: amber
+links:
+  resume: https://a2baid.netlify.app/Anay_Baid_Resume.pdf
+  portfolio: https://a2baid.netlify.app
+  linkedin: https://linkedin.com/in/anaybaid
+  email: a2baid@uwaterloo.ca
+career:
+- company: Alterra Mountain Co.
+  role: Systems admin intern, 2023
+  win: queries 20% faster
+  color: teal
+- company: Cineplex
+  role: Data engineering intern, 2024
+  win: 10TB+ validated
+  color: pink
+- company: Nationwide Appraisals
+  role: Data analyst intern, 2024
+  win: 40% less manual setup
+  color: sky
+- company: Iotum
+  role: Software & automation eng, 2025
+  win: 30% faster onboarding
+  color: amber
+- company: Purolator
+  role: Software & network optimization, 2026
+  win: 10 to 20x faster planning
+  color: red
+jobs_shown: 2
+jobs:
+- key: purolator
+  title: Purolator
+  meta: Software & Network Optimization Engineer
+  when: 2026 to now
+  color: red
+  tags:
+  - Python
+  - Airflow
+  - Flask
+  - Terraform
+  - AWS
+  points:
+  - I own the backend of the network forecasting pipeline, Python and PowerShell ETL, Airflow DAGs and Flask APIs over **100K+ forecast records**
+  - Planning turnaround is **10 to 20x faster** and diagnostics **40% faster** than when I started
+  - Stood up Airflow, S3, SageMaker and ECS/Fargate end to end in **Terraform**
+- key: iotum
+  title: Iotum
+  meta: Software & Automation Engineer
+  when: Summer 2025
+  color: amber
+  tags:
+  - React
+  - Selenium
+  - Mocha
+  points:
+  - Built the React reference apps clients copy when they wire up our SDK, onboarding got **30% faster**
+  - Rewrote the Selenium and Mocha test setup and got coverage to **85%**
+  - Tracked down latency problems hitting **10,000+ concurrent users**
+- key: nationwide
+  title: Nationwide Appraisals
+  meta: Data Analyst Intern
+  when: Fall 2024
+  color: sky
+  tags:
+  - Docker
+  - AWS S3
+  - Azure Intune
+  points:
+  - Moved legacy infra into Docker and tuned TCP on the way
+  - Locked down financial data pipelines across **AWS S3 and hybrid cloud**
+  - Automated Azure Intune MDM so manual provisioning dropped **40%**
+- key: cineplex
+  title: Cineplex
+  meta: Data Engineering Intern
+  when: Winter 2024
+  color: pink
+  tags:
+  - Python
+  - SQL
+  - Azure
+  points:
+  - Real-time ETL behind the box office dashboards, **10TB+** validated
+  - Tuned the showtime scheduling model for **+15% prediction accuracy**
+  - Test suites that caught **200+ data anomalies** before anyone saw them
+- key: alterra
+  title: Alterra Mountain Co.
+  meta: Systems Administration Intern
+  when: Summer 2023
+  color: teal
+  tags:
+  - Cenium 9
+  - Power BI
+  points:
+  - Custom Cenium 9 module over **10,000+ records**, queries **20% faster**
+  - Power BI dashboards that surfaced upsells worth **+15% revenue**
+projects_shown: 3
+projects:
+- key: insight-vault
+  title: InsightVault
+  meta: Fraud alert triage API
+  when: anaybaid7/insight-vault
+  status: Active
+  color: red
+  tags:
+  - Java
+  - Spring Boot
+  - React
+  - AWS
+  - Terraform
+  points:
+  - A rule engine you can audit plus a logistic regression model, landing at **92.9% precision and 94.1% recall** on a 35K transaction holdout split by time
+  - The model trains in Python and runs in plain Java, and a test fails if the two ever disagree past **1e-6**
+  link: https://github.com/anaybaid7/insight-vault
+- key: starrez
+  title: StarRez Automation Suite
+  meta: Chrome extension for UWaterloo housing
+  when: anaybaid7/starrez-logger-prod
+  status: In use
+  color: teal
+  tags:
+  - JavaScript
+  - DOM
+  - Automation
+  points:
+  - Used by **100+ front desk staff** across UWaterloo residences
+  - Reads what it needs straight off the page, so manual logging dropped **80%**
+  - IST signed off on it **campus-wide**
+  link: https://github.com/anaybaid7/starrez-logger-prod
+- key: build-trigger
+  title: CI/CD Build Automation
+  meta: Best Use of GitHub, uOttaHack 5
+  when: devpost.com/anaybaid
+  status: Shipped
+  color: amber
+  tags:
+  - Python
+  - GitHub API
+  - SMTP
+  points:
+  - Pick an environment and it fires **just that build** through the GitHub API
+  - Emails you a record of exactly what ran
+  link: https://devpost.com/software/github-build-trigger-application
+- key: mern-store
+  title: MERN E-Commerce
+  meta: Full-stack storefront
+  when: mern-store-gold.vercel.app
+  status: Live demo
+  color: sky
+  tags:
+  - MongoDB
+  - Express
+  - React
+  - Node
+  - Docker
+  points:
+  - Auth, cart and checkout, **all in Docker**
+  - What works on my laptop works in prod
+  link: https://mern-store-gold.vercel.app/
+- key: box-office
+  title: Box Office Data Pipeline
+  meta: Hybrid cloud reporting
+  when: Cineplex, 2024
+  status: Work project
+  color: pink
+  tags:
+  - Python
+  - SQL
+  - Azure
+  - JUnit
+  points:
+  - Pulled **10TB+** from hybrid cloud and on-prem into one dashboard people could trust
+  - Flagged **200+ anomalies** on the way in
+  link:
+stack:
+- group: Languages
+  color: teal
+  items:
+  - Python
+  - C++
+  - JavaScript
+  - TypeScript
+  - Java
+  - SQL
+  - Kotlin
+- group: Frameworks
+  color: amber
+  items:
+  - React
+  - Node.js
+  - Django
+  - Spring Boot
+  - Flutter
+  - TensorFlow
+- group: Cloud
+  color: sky
+  items:
+  - AWS
+  - Azure
+  - Docker
+  - Kubernetes
+  - Terraform
+  - GitHub Actions
+education:
+  key: waterloo
+  title: University of Waterloo
+  meta: Honours Computer Science
+  when: Graduating April 2027
+  color: sky
+  points:
+  - '**100%** in CS 445 (Software Requirements Specification) and CS 446 (Software Design and Architectures), recognized by the Director of Software Engineering'
+  - Tutored CS 136/136L (Algorithm Design and Data Abstraction) through CS & Math Tutoring

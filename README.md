@@ -1,143 +1,63 @@
-<div align="center">
+<a href="https://a2baid.netlify.app"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/hero-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/hero-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Anay Baid. Backend and data engineer at Waterloo CS. I build pipelines, APIs and the cloud under them."></picture></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2e,50:1a3a6e,100:1e5fa8&height=200&section=header&text=Anay%20Baid&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20CS%20%40%20Waterloo&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/facts-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/facts-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/facts-dark.svg"><img src="assets/facts-light.svg" width="100%" alt="Graduating April 2027. Looking for New grad SWE. Based in Toronto area. Experience 5 internships"></picture>
 
-<br/>
+<p align="center"><a href="https://a2baid.netlify.app/Anay_Baid_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-resume-dark.svg"><img src="assets/btn-resume-light.svg" height="44" alt="Resume"></picture></a> <a href="https://a2baid.netlify.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-portfolio-dark.svg"><img src="assets/btn-portfolio-light.svg" height="44" alt="Portfolio"></picture></a> <a href="https://linkedin.com/in/anaybaid"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="44" alt="LinkedIn"></picture></a> <a href="mailto:a2baid@uwaterloo.ca"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="44" alt="Email"></picture></a></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Building+things+that+work.;Shipping+things+that+matter.;10TB+pipelines.+30%25+faster+integrations.;100%25+in+CS+445.)](https://git.io/typing-svg)
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/h-experience-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/h-experience-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/h-experience-dark.svg"><img src="assets/h-experience-light.svg" width="100%" alt="Where I've been"></picture>
 
-<br/>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/career-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/career-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/career-dark.svg"><img src="assets/career-light.svg" width="100%" alt="Career. Alterra Mountain Co., Systems admin intern, 2023, Cineplex, Data engineering intern, 2024, Nationwide Appraisals, Data analyst intern, 2024, Iotum, Software & automation eng, 2025, Purolator, Software & network optimization, 2026. Open to new grad roles in 2027."></picture>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anaybaid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anaybaid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a2baid.netlify.app-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://a2baid.netlify.app)
-[![Email](https://img.shields.io/badge/Email-a2baid@uwaterloo.ca-1E40AF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a2baid@uwaterloo.ca)
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/job-purolator-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/job-purolator-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/job-purolator-dark.svg"><img src="assets/job-purolator-light.svg" width="100%" alt="Purolator, Software & Network Optimization Engineer, 2026 to now. I own the backend of the network forecasting pipeline, Python and PowerShell ETL, Airflow DAGs and Flask APIs over 100K+ forecast records Planning turnaround is 10 to 20x faster and diagnostics 40% faster than when I started Stood up Airflow, S3, SageMaker and ECS/Fargate end to end in Terraform"></picture>
 
-</div>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/job-iotum-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/job-iotum-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/job-iotum-dark.svg"><img src="assets/job-iotum-light.svg" width="100%" alt="Iotum, Software & Automation Engineer, Summer 2025. Built the React reference apps clients copy when they wire up our SDK, onboarding got 30% faster Rewrote the Selenium and Mocha test setup and got coverage to 85% Tracked down latency problems hitting 10,000+ concurrent users"></picture>
 
-<br/>
+<details>
+<summary><b>Earlier roles, Nationwide Appraisals, Cineplex, Alterra Mountain Co.</b></summary>
+<br>
 
-## &nbsp;⚡ Where I've Been
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/job-nationwide-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/job-nationwide-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/job-nationwide-dark.svg"><img src="assets/job-nationwide-light.svg" width="100%" alt="Nationwide Appraisals, Data Analyst Intern, Fall 2024. Moved legacy infra into Docker and tuned TCP on the way Locked down financial data pipelines across AWS S3 and hybrid cloud Automated Azure Intune MDM so manual provisioning dropped 40%"></picture>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 &nbsp;Iotum &nbsp;<code>Summer 2025</code></h3>
-      <p><em>Software & Automation Engineer</em></p>
-      <ul>
-        <li>React SDK reference apps → <strong>30% faster</strong> client onboarding</li>
-        <li>Rebuilt test automation with Selenium + Mocha → <strong>85% code coverage</strong></li>
-        <li>Resolved latency issues serving <strong>10,000+ concurrent users</strong></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏔️ &nbsp;Nationwide Appraisals &nbsp;<code>Fall 2024</code></h3>
-      <p><em>Data Analyst Intern</em></p>
-      <ul>
-        <li>Containerized legacy infra with Docker + TCP optimization</li>
-        <li>Secured financial pipelines across <strong>AWS S3 + hybrid cloud</strong></li>
-        <li>Azure Intune MDM → <strong>40% less</strong> manual provisioning</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎥 &nbsp;Cineplex &nbsp;<code>Winter 2024</code></h3>
-      <p><em>Data Engineering Intern</em></p>
-      <ul>
-        <li>Real-time ETL for box office dashboards, <strong>10TB+</strong> validated</li>
-        <li>ML show-time scheduling → <strong>+15% prediction accuracy</strong></li>
-        <li>Resolved <strong>200+ data anomalies</strong> via automated test suites</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎿 &nbsp;Alterra Mountain Co. &nbsp;<code>Summer 2023</code></h3>
-      <p><em>Systems Administration Intern</em></p>
-      <ul>
-        <li>Custom Cenium 9 module for <strong>10,000+ records</strong> → query time ↓ 20%</li>
-        <li>Power BI dashboards → identified upsells worth <strong>+15% revenue</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/job-cineplex-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/job-cineplex-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/job-cineplex-dark.svg"><img src="assets/job-cineplex-light.svg" width="100%" alt="Cineplex, Data Engineering Intern, Winter 2024. Real-time ETL behind the box office dashboards, 10TB+ validated Tuned the showtime scheduling model for +15% prediction accuracy Test suites that caught 200+ data anomalies before anyone saw them"></picture>
 
-<br/>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/job-alterra-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/job-alterra-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/job-alterra-dark.svg"><img src="assets/job-alterra-light.svg" width="100%" alt="Alterra Mountain Co., Systems Administration Intern, Summer 2023. Custom Cenium 9 module over 10,000+ records, queries 20% faster Power BI dashboards that surfaced upsells worth +15% revenue"></picture>
 
-## &nbsp;🛠️ Stack
+</details>
 
-<div align="center">
+<br>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-1D4ED8?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1E40AF?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1D4ED8?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1D4ED8?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-2563EB?style=for-the-badge&logo=kotlin&logoColor=white)
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/h-projects-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/h-projects-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg"><img src="assets/h-projects-light.svg" width="100%" alt="Things I've built"></picture>
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-1E40AF?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1D4ED8?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1E3A8A?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1D4ED8?style=for-the-badge&logo=springboot&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-2563EB?style=for-the-badge&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1E40AF?style=for-the-badge&logo=tensorflow&logoColor=white)
+<a href="https://github.com/anaybaid7/insight-vault"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/proj-insight-vault-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/proj-insight-vault-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/proj-insight-vault-dark.svg"><img src="assets/proj-insight-vault-light.svg" width="100%" alt="InsightVault, Fraud alert triage API, anaybaid7/insight-vault. A rule engine you can audit plus a logistic regression model, landing at 92.9% precision and 94.1% recall on a 35K transaction holdout split by time The model trains in Python and runs in plain Java, and a test fails if the two ever disagree past 1e-6"></picture></a>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-1E3A8A?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-1D4ED8?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2563EB?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-1E40AF?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1D4ED8?style=for-the-badge&logo=githubactions&logoColor=white)
+<a href="https://github.com/anaybaid7/starrez-logger-prod"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/proj-starrez-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/proj-starrez-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/proj-starrez-dark.svg"><img src="assets/proj-starrez-light.svg" width="100%" alt="StarRez Automation Suite, Chrome extension for UWaterloo housing, anaybaid7/starrez-logger-prod. Used by 100+ front desk staff across UWaterloo residences Reads what it needs straight off the page, so manual logging dropped 80% IST signed off on it campus-wide"></picture></a>
 
-</div>
+<a href="https://devpost.com/software/github-build-trigger-application"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/proj-build-trigger-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/proj-build-trigger-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/proj-build-trigger-dark.svg"><img src="assets/proj-build-trigger-light.svg" width="100%" alt="CI/CD Build Automation, Best Use of GitHub, uOttaHack 5, devpost.com/anaybaid. Pick an environment and it fires just that build through the GitHub API Emails you a record of exactly what ran"></picture></a>
 
-<br/>
+<details>
+<summary><b>More projects, MERN E-Commerce, Box Office Data Pipeline</b></summary>
+<br>
 
-## &nbsp;🚀 Things I've Built
+<a href="https://mern-store-gold.vercel.app/"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/proj-mern-store-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/proj-mern-store-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/proj-mern-store-dark.svg"><img src="assets/proj-mern-store-light.svg" width="100%" alt="MERN E-Commerce, Full-stack storefront, mern-store-gold.vercel.app. Auth, cart and checkout, all in Docker What works on my laptop works in prod"></picture></a>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/anaybaid7/starrez-logger">🏢 StarRez Automation Suite</a></h3>
-      <p><code>JavaScript</code> <code>DOM Injection</code> <code>Workflow Automation</code></p>
-      <p>Production-grade browser extension for <strong>100+ front desk staff</strong> at UWaterloo. Automated DOM extraction pipelines cut manual logging by <strong>80%</strong>. Approved and deployed campus-wide by <strong>UWaterloo IST Management</strong>.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://devpost.com/software/github-build-trigger-application">🏆 CI/CD Build Automation Tool</a></h3>
-      <p><code>Python</code> <code>GitHub Actions API</code> <code>REST</code> <code>SMTP</code></p>
-      <p><strong>🥇 Best Use of GitHub — UOttaHack 5.</strong> Dispatch tool that triggers targeted build pipelines via the GitHub API, with audit-ready SMTP notifications baked in.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://mern-store-gold.vercel.app/">🛒 MERN E-Commerce Platform</a></h3>
-      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code> <code>Docker</code></p>
-      <p>Full-stack storefront — auth, cart, checkout, fully Dockerized. Runs the same locally and in prod. No surprises.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Box Office Data Pipeline</h3>
-      <p><code>Python</code> <code>SQL</code> <code>Azure</code> <code>JUnit</code> <code>Selenium</code></p>
-      <p>Unified <strong>10TB+</strong> across hybrid cloud and on-prem into one reliable dashboard. <strong>200+ anomalies</strong> caught before they became someone's problem.</p>
-    </td>
-  </tr>
-</table>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/proj-box-office-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/proj-box-office-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/proj-box-office-dark.svg"><img src="assets/proj-box-office-light.svg" width="100%" alt="Box Office Data Pipeline, Hybrid cloud reporting, Cineplex, 2024. Pulled 10TB+ from hybrid cloud and on-prem into one dashboard people could trust Flagged 200+ anomalies on the way in"></picture>
 
-<br/>
+</details>
 
-## &nbsp;🎓 Education
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/live-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/live-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/live-dark.svg"><img src="assets/live-light.svg" width="100%" alt="Lately on GitHub, recent repositories and contributions over the last six months"></picture>
 
-<div align="center">
+<br>
 
-### University of Waterloo — Honours Computer Science
-`Expected December 2026`
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/h-stack-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/h-stack-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg"><img src="assets/h-stack-light.svg" width="100%" alt="Stack"></picture>
 
-**100%** in CS 445 (Software Requirements Specification) · Recognized by the Director of Software Engineering
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/stack-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/stack-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Stack. Languages: Python, C++, JavaScript, TypeScript, Java, SQL, Kotlin. Frameworks: React, Node.js, Django, Spring Boot, Flutter, TensorFlow. Cloud: AWS, Azure, Docker, Kubernetes, Terraform, GitHub Actions"></picture>
 
-CS & Math Tutor for Algorithm Design & Data Abstraction (CS 136/136L)
+<br>
 
-</div>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/h-education-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/h-education-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/h-education-dark.svg"><img src="assets/h-education-light.svg" width="100%" alt="Education"></picture>
 
-<br/>
+<picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/edu-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/edu-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/edu-dark.svg"><img src="assets/edu-light.svg" width="100%" alt="University of Waterloo, Honours Computer Science, Graduating April 2027. 100% in CS 445 (Software Requirements Specification) and CS 446 (Software Design and Architectures), recognized by the Director of Software Engineering Tutored CS 136/136L (Algorithm Design and Data Abstraction) through CS & Math Tutoring"></picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e5fa8,50:1a3a6e,100:0a0f2e&height=120&section=footer" width="100%"/>
+<br>
+
+<a href="mailto:a2baid@uwaterloo.ca"><picture><source media="(max-width: 768px) and (prefers-color-scheme: dark)" srcset="assets/footer-m-dark.svg"><source media="(max-width: 768px)" srcset="assets/footer-m-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Say hi at a2baid@uwaterloo.ca"></picture></a>
