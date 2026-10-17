@@ -1,6 +1,6 @@
 {
- "fetched": "2026-10-17T15:41:43.275938+00:00",
- "total": 142,
+ "fetched": "2026-10-17T20:41:54.580198+00:00",
+ "total": 164,
  "days": [
   [
    "2026-04-19",
@@ -728,10 +728,16 @@
   ],
   [
    "2026-10-17",
-   0
+   22
   ]
  ],
  "repos": [
+  {
+   "name": "thread-pcc",
+   "desc": "THREAD \u2014 Traceable Health Risk Escalation & Action Detection. Reconstructs a resident's concern across shifts and shows when the evidence doesn't yet establish it's resolved. PointClickCare 'Catch It Early' challenge, Hack the Valley.",
+   "pushed": "2026-10-17T20:39:48Z",
+   "lang": "Python"
+  },
   {
    "name": "battleship-purolator",
    "desc": "An automated, real-time (multiplayer) Battleship game themed as a competitive Purolator logistics network simulator",
@@ -743,12 +749,6 @@
    "desc": "Anay Baid's Website (Summer 2025) ",
    "pushed": "2026-10-13T05:39:30Z",
    "lang": "TypeScript"
-  },
-  {
-   "name": "forecast_gui-purolator-tool-demo",
-   "desc": "Forecast GUI tool (Demo, no actual data - just the interface and ongoing development work)",
-   "pushed": "2026-06-22T14:51:11Z",
-   "lang": "JavaScript"
   }
  ]
 }
